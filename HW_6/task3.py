@@ -17,7 +17,7 @@ def safe(board,row,col,n):
     
     
 def n_queens(board,col, n):
-    if col >=N:
+    if col >= n:
         return True
     
     for i in range(n):
