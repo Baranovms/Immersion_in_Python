@@ -18,7 +18,7 @@ def create_dir(name_dir):
 
 
 if __name__ == '__main__':
-    my_dict = {'.txt': 1, '.doc': 1, '.bin': 1, '.pdf': 1}
+    my_dict = {'.txt': 5, '.doc': 5, '.bin': 5, '.pdf': 5}
     my_dir = 'HW_7/file_for_task6'
     create_dir(my_dir)
     generate_files(my_dict)
