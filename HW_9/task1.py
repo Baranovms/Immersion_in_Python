@@ -43,8 +43,8 @@ def json_file(func: Callable):
         d = {f"{args}":result,}
         data.append(d)
 
-        with open(file, 'w', encoding='utf-8') as f2:
-            json.dump(data, f2, ensure_ascii=False, indent=2)
+        with open(file, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
 
         return result
     return wrapper
