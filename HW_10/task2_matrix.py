@@ -2,17 +2,17 @@ class Matrix:
     def __init__(self, matrix):
         self.matrix = matrix
 
-    def print_matrix(self, t_matrix=None):
-        if t_matrix is None:
+    def print_matrix(self, matrix=None):
+        if matrix is None:
             for i in range(len(self.matrix)):
                 for j in range(len(self.matrix[0])):
                     print(self.matrix[i][j], end=' ')
                 print()
             print()
         else:
-            for i in range(len(t_matrix)):
-                for j in range(len(t_matrix[0])):
-                    print(t_matrix[i][j], end=' ')
+            for i in range(len(matrix)):
+                for j in range(len(matrix[0])):
+                    print(matrix[i][j], end=' ')
                 print()
             print()
 

@@ -1,5 +1,3 @@
-import random
-
 from animals import Animal, Dog, Cat, Birds
 
 class Farm:
