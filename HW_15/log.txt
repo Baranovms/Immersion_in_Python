@@ -1,0 +1,13 @@
+2023-10-16 20:31:31,195 - INFO - File: Personal / Extension: .py / Parent Directory: HW_14
+2023-10-16 20:31:31,196 - INFO - File: task1 / Extension: .py / Parent Directory: HW_14
+2023-10-16 20:31:31,196 - INFO - File: users2 / Extension: .json / Parent Directory: HW_14
+2023-10-16 20:31:31,197 - INFO - Directory: seminar / Parent Directory: HW_14
+2023-10-16 20:31:31,197 - INFO - Directory: __pycache__ / Parent Directory: HW_14
+2023-10-16 20:31:31,198 - INFO - File: sem1_2 / Extension: .py / Parent Directory: seminar
+2023-10-16 20:31:31,199 - INFO - File: sem3 / Extension: .py / Parent Directory: seminar
+2023-10-16 20:31:31,199 - INFO - File: sem4 / Extension: .py / Parent Directory: seminar
+2023-10-16 20:31:31,200 - INFO - File: sem5 / Extension: .py / Parent Directory: seminar
+2023-10-16 20:31:31,201 - INFO - File: Personal.cpython-311 / Extension: .pyc / Parent Directory: __pycache__
+2023-10-16 20:31:31,202 - INFO - File: sem1.cpython-311 / Extension: .pyc / Parent Directory: __pycache__
+2023-10-16 20:31:31,202 - INFO - File: sem5.cpython-311-pytest-7.4.2 / Extension: .pyc / Parent Directory: __pycache__
+2023-10-16 20:31:31,203 - INFO - File: task1.cpython-311-pytest-7.4.2 / Extension: .pyc / Parent Directory: __pycache__
